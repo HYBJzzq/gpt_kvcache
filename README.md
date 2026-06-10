@@ -41,7 +41,6 @@ gpt/
 `-- benchmark_gpt2_prealloc_full.csv  # GPT-2 最新测试结果
 ```
 
-`gpt_model.pt` 是本地训练得到的模型权重，文件较大，不建议直接提交到 GitHub。需要公开权重时，建议使用 GitHub Releases、HuggingFace Hub 或 Git LFS。
 
 ## 环境安装
 
