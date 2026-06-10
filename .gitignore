@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+
+.vscode/
+.idea/
+
+*.pt
+*.pth
+*.ckpt
+
+.cache/
+huggingface/
+hf_cache/
+
+benchmark_*_tmp.csv
+*.log
